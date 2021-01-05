@@ -6,8 +6,8 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 
 
  <p align="center">
-<a href="https://edenik.com/DartRegex/#/" target="_blank">
-Live Demo - https://edenik.com/DartRegex/
+<a href="https://edenik.com/DartRegex/" target="_blank">
+Live Demo - https://Edenik.com/DartRegex/
 </a>
 </p>
 
@@ -21,6 +21,7 @@ Live Demo - https://edenik.com/DartRegex/
 
 ## Screenshots
 <p align="center">
+<img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/screenshot.png" >
 </p>
 
   
