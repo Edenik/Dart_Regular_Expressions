@@ -19,22 +19,22 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 </p>
 
 
-## Features
+## Features:
 
 * Test Regular Expressions
 
 
 
-## Screenshots
+## Screenshots:
 <div align="center">
-    <p align="center" style="text-decoration: underline; font-weight: bold;">Web</p>
+    <p align="center"><strong>Web</strong></p>
     <a href="https://edenik.com/DartRegex/#/" taget="_blank">
         <img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/screenshot.png">
     </a>
 </div>
 
 <div align="center">
-    <p align="center" style="text-decoration: underline; font-weight: bold;">Mobile</p>
+    <p align="center"><strong>Mobile</strong></p>
     <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-release.apk" taget="_blank">
         <img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/mobile.png">
     </a>
