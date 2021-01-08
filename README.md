@@ -13,7 +13,7 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 
 
 <p align="center">
-    <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-release.apk">
+    <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-debug.apk">
         <img src="https://level01.io/wp-content/uploads/2020/10/direct-download-apk.png" width="250">
     </a>
 </p>
@@ -35,7 +35,7 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 
 <div align="center">
     <p align="center"><strong>Mobile</strong></p>
-    <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-release.apk" taget="_blank">
+    <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-debug.apk" taget="_blank">
         <img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/mobile.png">
     </a>
 </div>
