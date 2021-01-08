@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.dart_regex">
    <application
-        android:label="dart_regex"
+        android:label="Dart Regex"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

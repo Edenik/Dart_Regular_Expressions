@@ -1,6 +1,6 @@
 {
-    "name": "dart_regex",
-    "short_name": "dart_regex",
+    "name": "Dart Regex",
+    "short_name": "Dart Regex",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
