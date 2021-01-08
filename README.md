@@ -27,15 +27,15 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 
 ## Screenshots
 <div align="center">
+    <p align="center">Web</p>
     <a href="https://edenik.com/DartRegex/#/" taget="_blank">
-        <p align="center">Web</p>
         <img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/screenshot.png">
     </a>
 </div>
 
 <div align="center">
+    <p align="center">Mobile</p>
     <a href="https://github.com/Edenik/Dart_Regular_Expressions/raw/main/media/app-release.apk" taget="_blank">
-        <p align="center">Mobile</p>
         <img src="https://raw.githubusercontent.com/Edenik/Dart_Regular_Expressions/main/media/mobile.png">
     </a>
 </div>
@@ -51,5 +51,5 @@ Dart Regex is a tool to test Regular Expressions. Built with Dart & Flutter.
 - [ ] Add CheetSheet
 - [ ] Add Settings Screen
 - [ ] Dark / Light Mode
-- [ ] Add Android Support
+- [X] Add Android Support
 - [ ] Add Common Regex Patterns
